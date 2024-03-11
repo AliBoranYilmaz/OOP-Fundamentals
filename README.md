@@ -1,0 +1,1 @@
+In addition to the concepts of inheritance, encapsulation, abstraction and polymorphism, which are the four basic concepts of Object-Oriented Programming, I have prepared a study in which I explain the concepts of constructor, abstract class, interface and lambda expression and give examples.
